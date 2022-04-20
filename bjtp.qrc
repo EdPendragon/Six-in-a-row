@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>bjt.jpg</file>
+        <file>bgm3.wav</file>
+    </qresource>
+</RCC>
